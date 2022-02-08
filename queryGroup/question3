@@ -1,0 +1,1 @@
+SELECT AVG(vote),exam_id FROM `exam_student` GROUP BY exam_id

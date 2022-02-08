@@ -1,0 +1,1 @@
+SELECT COUNT(id),office_number FROM `teachers` GROUP BY office_number
