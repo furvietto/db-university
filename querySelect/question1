@@ -1,0 +1,1 @@
+SELECT * FROM `students` WHERE Year(`date_of_birth`) = 1990
